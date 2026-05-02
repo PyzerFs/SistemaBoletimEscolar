@@ -4,6 +4,6 @@
 - geração de boletim/relatorio final de notas de cada matéria escolar
 - validação de nível disciplinar
 
-## Sistema Avaliativo em Python e C++
+# Sistema Avaliativo em Python e C++
 
-### Interface de representação Tkinter (Python) GTKmm (C++)
+- Interface de representação Tkinter (Python) GTKmm (C++)
